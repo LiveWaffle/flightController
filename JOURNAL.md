@@ -13,7 +13,9 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ## 10/17/2025 - Designed whole Schematic + PCB  
 
 # Backstory
-I started off by gathering ideas from my real life experiences. One of my key ideas was to make a model rocket flight controller. I recently joined my schools aerospace and rocketry club and have always been interested in data science and plotting to graphs. So I came up with an idea to log data from the flight that the rocket will go on. 
+I started off by gathering ideas from my real life experiences. One of my key ideas was to make a model rocket flight controller. I recently joined my schools aerospace and rocketry club and have always been interested in data science and plotting to graphs. So I came up with an idea to log data from the flight that the rocket will go on. Eventually I ended up realizing I forgot to journal! oh no! *Please excuse the lack of Journals!* As i continue growing alongside this project there will be a lot more journals!
+
+
 
 ## What I did
 I started off by gathering a list of parts I would need. On my whiteboard the Flight controller needed these key things
